@@ -1,0 +1,10 @@
+C:\Users\nuray\OneDrive\Belgeler\GitHub\OziCrm\bin\Debug\OziCrm.exe.config
+C:\Users\nuray\OneDrive\Belgeler\GitHub\OziCrm\bin\Debug\OziCrm.exe
+C:\Users\nuray\OneDrive\Belgeler\GitHub\OziCrm\bin\Debug\OziCrm.pdb
+C:\Users\nuray\OneDrive\Belgeler\GitHub\OziCrm\obj\Debug\OziCrm.csproj.AssemblyReference.cache
+C:\Users\nuray\OneDrive\Belgeler\GitHub\OziCrm\obj\Debug\OziCrm.Form1.resources
+C:\Users\nuray\OneDrive\Belgeler\GitHub\OziCrm\obj\Debug\OziCrm.Properties.Resources.resources
+C:\Users\nuray\OneDrive\Belgeler\GitHub\OziCrm\obj\Debug\OziCrm.csproj.GenerateResource.cache
+C:\Users\nuray\OneDrive\Belgeler\GitHub\OziCrm\obj\Debug\OziCrm.csproj.CoreCompileInputs.cache
+C:\Users\nuray\OneDrive\Belgeler\GitHub\OziCrm\obj\Debug\OziCrm.exe
+C:\Users\nuray\OneDrive\Belgeler\GitHub\OziCrm\obj\Debug\OziCrm.pdb

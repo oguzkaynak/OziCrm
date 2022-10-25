@@ -16,5 +16,14 @@ namespace OziCrm
         {
             InitializeComponent();
         }
+
+        private void btn_Yazdir_Click(object sender, EventArgs e)
+        {
+            string isim = tb_isim.Text;
+            string Soyad = tb_Soyad.Text;
+            int dogumyili = Convert.ToInt32(tb_Dogumyili.Text);
+            int Yas = 2022 - dogumyili;
+            lbl_Sonuc.Text = isim + " " + Soyad + " " + Yas;
+        }
     }
 }
